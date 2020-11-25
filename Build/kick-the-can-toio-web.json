@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KickTheCanToio",
+"productVersion": "0.1",
+"dataUrl": "kick-the-can-toio-web.data.unityweb",
+"wasmCodeUrl": "kick-the-can-toio-web.wasm.code.unityweb",
+"wasmFrameworkUrl": "kick-the-can-toio-web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
